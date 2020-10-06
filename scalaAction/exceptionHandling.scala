@@ -1,4 +1,4 @@
-// Exception handling
+// Exception handling using try/catch. This is not the recommended approach
 
 object ExceptionHandling {
 
